@@ -41,7 +41,7 @@ To get the ivms4200 desktop with q4wine panel
 
 On the menu go to sub menus and ckick Applications>Shells>Bash
 
-<img src="" alt="" width="625" height="520">
+<img src="https://raw.githubusercontent.com/bkjaya2020/docker-ivms4200-linux-new/master/Screenshot%20from%202020-03-01%2016-53-49.png" alt="https://raw.githubusercontent.com/bkjaya2020/docker-ivms4200-linux-new/master/Screenshot%20from%202020-03-01%2016-53-49.png" width="625" height="520">
 
 
 How to change the timezone
