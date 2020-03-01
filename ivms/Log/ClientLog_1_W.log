@@ -1,0 +1,12 @@
+[2020-02-14 11:25:47.705][DBG] [yx]Failed to load [/home/bkjaya1952/Documents/wine-docker-d1/ivms/Module.xml]
+[2020-02-14 11:25:47.707][INF] [yx] sqlite3 lib version = 3.7.17
+[2020-02-14 11:25:47.707][INF] [yx] sqlite3 lib version number = 3007017
+[2020-02-14 11:25:47.707][INF] [yx] The following information is very important: SQLITE_THREADSAFE = 1, if the value is not equal to 1, the client will have disastrous consequences!
+[2020-02-14 11:25:47.972][INF] [yx][CLocalLogMgr::InitInstance]开始线程
+[2020-02-14 11:25:47.972][INF] [yx][CAlarmCenter::InitInstance]开始线程
+[2020-02-14 11:25:47.973][INF] [yx][CAlarmFactoryV30::InitInstance]开始线程
+[2020-02-14 11:25:47.973][INF] [yx][CExceptionMgr::InitInstance]开始线程
+[2020-02-14 11:25:54.065][INF] [yx][CExceptionMgr::ExitInstance]结束线程
+[2020-02-14 11:25:54.105][INF] [yx][CAlarmFactoryV30::ExitInstance]结束线程
+[2020-02-14 11:25:54.473][INF] [yx][CAlarmCenter::ExitInstance]结束线程
+[2020-02-14 11:25:54.973][INF] [yx][CLocalLogMgr::ExitInstance]结束线程
