@@ -1,4 +1,4 @@
-# A docker image novnc desktop with q4wine  for installing wine apps
+# A docker image pre-installed ivms4200-Linux based on bkjaya1952/q4wine-x11vnc-novnc-docker
 
 A docker image pre-installed ivms4200-Linux based on bkjaya1952/q4wine-x11vnc-novnc-docker
 
